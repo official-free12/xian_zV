@@ -1,0 +1,6 @@
+# 闲鱼系统/ZFB_h5 sdk固定金额/通道租用/咸鱼sdk
+
+闲鱼代付系统免签支付/SDK/固定金额/稳定自动回调 <br>去掉阿奇索 自动回调免监控 上店铺和回调都是正常的，请测试好在进行购买！！<br>联系客服索取密码：qq：9111648 19578316<br>更新日志：<br>20200630<br>example.com，example.com，example.com（高识别率、识别出的文件可直接导入系统）<br>20200625<br>example.com.H5支付通过短链拉起，example.com.example.com<br>20200623<br>example.com<br>example.com<br>example.com<br>example.com<br>20200621<br>example.com、失败订单、成功率、未回调订单统计<br>20200620<br>example.com<br>example.com，不用下单时多次解析，提供效率，提高成功率（下单时再解析有时会解析失败）<br>example.com，已过期的码不回收<br>20200618<br>example.com<br>20200617<br>example.com，example.com.修改导入模板<br>202006161、优化批量导入功能2、优化回调逻辑<br>202006151、优化添加店铺，去除阿奇索<br>202006141、优化出码代码2、通过淘宝官方接口稳定回调<br>声明：<br>源码只供学习使用，如用于商业活动与本人无关<br>购买本系统请一定测试确定好在买<br>请勿将系统用于非法业务,合理学习<br>用来进行违反中国法律用户禁止用于非法业务跟本人一切无关<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/uDoZ4" style="color: red;">https://mega-file.org/uDoZ4</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
